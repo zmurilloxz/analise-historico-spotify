@@ -1,0 +1,4 @@
+# bibliotecas do projeto de análise do Spotify
+
+pandas==3.1.0
+matplotlib==3.11.2
